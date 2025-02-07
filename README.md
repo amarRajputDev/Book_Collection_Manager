@@ -23,7 +23,7 @@ This is a single-page application (SPA) that enables users to manage a personal 
 1. Clone the repository:
 
    \`\`\`
-   git clone https://github.com/your-username/book-collection-manager.git
+   git clone https://github.com/amarRajputDev/book-collection-manager.git
    cd book-collection-manager
    \`\`\`
 
@@ -36,7 +36,7 @@ This is a single-page application (SPA) that enables users to manage a personal 
 3. Start the development server:
 
    \`\`\`
-   npm start
+   npm run dev
    \`\`\`
 
 4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
